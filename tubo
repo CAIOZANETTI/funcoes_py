@@ -1,0 +1,5 @@
+
+def massa_tubo(di,de):
+  """di=diametro interno"""
+return 1
+
